@@ -5,4 +5,3 @@
 [Swagger UI](https://http://localhost:8000/api/schema/swagger-ui/)
 
 [redoc](https://http://localhost:8000/api/schema/redoc/)
-
